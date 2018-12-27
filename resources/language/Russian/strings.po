@@ -451,7 +451,6 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
-msgstr "Скреппер для Сериалов, используемый в библиотеке Kodi"
 msgstr "Источник данных сериалов в библиотеке Kodi"
 
 msgctxt "#30116"
