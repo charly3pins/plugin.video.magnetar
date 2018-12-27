@@ -388,10 +388,6 @@ msgctxt "#30092"
 msgid "Use default fanart"
 msgstr "Использовать фанарт по-умолчанию"
 
-msgctxt "#30093"
-msgid "Do Not Disturb mode"
-msgstr "Режим 'Не беспокоить'"
-
 # Interface
 msgctxt "#30100"
 msgid "Quasar has crashed, restarting..."
@@ -456,6 +452,7 @@ msgstr ""
 msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
 msgstr "Скреппер для Сериалов, используемый в библиотеке Kodi"
+msgstr "Источник данных сериалов в библиотеке Kodi"
 
 msgctxt "#30116"
 msgid "Looks like Quasar is still starting up, give it a few seconds..."
