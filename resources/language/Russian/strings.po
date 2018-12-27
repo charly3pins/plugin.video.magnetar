@@ -117,7 +117,7 @@ msgid "Get updates for pre-releases"
 msgstr "Получать обновления для пре-релизов"
 
 msgctxt "#30025"
-msgid "Limit rates after buffering only"
+msgid "Limit rates after initial buffering only"
 msgstr "Ограничить скорость только после буферизации"
 
 msgctxt "#30026"
@@ -170,7 +170,7 @@ msgstr "Вид по-умолчанию для эпизодов"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
-msgstr "Только оригинальные названия"
+msgstr "Использовать оригинальные названия для поиска"
 
 msgctxt "#30039"
 msgid "TheMovieDB"
@@ -314,7 +314,7 @@ msgstr "i2p"
 
 msgctxt "#30074"
 msgid "Spoof user agent (highly inadvisable)"
-msgstr ""
+msgstr "Подменить user agent (крайне не рекомендуется)"
 
 msgctxt "#30075"
 msgid "Default from libtorrent (acceptable)"
@@ -766,7 +766,7 @@ msgstr "Списки"
 
 msgctxt "#30264"
 msgid "Reset clearances"
-msgstr ""
+msgstr "Очистить разрешения"
 
 msgctxt "#30265"
 msgid "Item already in library"
@@ -956,3 +956,31 @@ msgstr "Отметить просмотренным в Trakt"
 msgctxt "#30314"
 msgid "Mark Unwatched in Trakt"
 msgstr "Отметить непросмотренным в Trakt"
+
+msgctxt "#30095"
+msgid "Resume playback from library integration"
+msgstr "Возобновить воспроизведение из интеграции c библиотекой"
+
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr "Переместить завершенные загрузки в отдельные папки"
+
+msgctxt "#30093"
+msgid "Disable notification sound"
+msgstr "Отключить звук уведомления"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Отключить фоновый диалог прогресса"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Никогда"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Всегда"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Только активные торренты"
